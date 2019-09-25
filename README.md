@@ -23,7 +23,7 @@ cd vuejs-element-register
 npm install
 
 # develop and preview
-npm run dev
+npm run serve
 ```
 
 ### Compiles and minifies for production
