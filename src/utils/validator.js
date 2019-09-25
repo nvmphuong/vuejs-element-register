@@ -14,5 +14,12 @@ class Validator {
     isEmpty(value) {
         return value === '' || value === null
     }
+    /**
+     * @param {string} value
+     * @returns {Boolean}
+     */
+    minLength(length, value) {
+        return String(value).length >= length
+    }
 }
 export default new Validator()
