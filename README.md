@@ -8,7 +8,7 @@ Understanding and learning this knowledge in advance will greatly help the use o
 
 ## Online Demo
 
-[Preview](https://github.com/nvmphuong/vuejs-element-register/dist/index.html)
+[Preview](https://nvmphuong.github.io/vuejs-element-register/dist/index.html)
 
 ## Getting started
 
@@ -22,7 +22,7 @@ cd vuejs-element-register
 # install dependency
 npm install
 
-# develop
+# develop and preview
 npm run dev
 ```
 
