@@ -13,6 +13,9 @@ Understanding and learning this knowledge in advance will greatly help the use o
 ## Getting started
 
 ```bash
+#install vue cli globaly
+npm install -g @vue/cli
+
 # clone the project
 git clone https://github.com/nvmphuong/vuejs-element-register.git
 
